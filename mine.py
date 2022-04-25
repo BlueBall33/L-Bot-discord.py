@@ -1,6 +1,6 @@
 import os
 import random
-from config.py as config import *
+from config import *
 import nextcord as discord
 from nextcord.ext import commands, tasks
 
